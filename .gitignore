@@ -1,0 +1,7 @@
+a2_glove.6B.100d.txt
+*.h5
+*.pkl
+*.pt
+*.ckpt
+__pycache__/
+*.ipynb_checkpoints/
